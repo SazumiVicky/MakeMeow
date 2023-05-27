@@ -1,0 +1,37 @@
+{
+  "name": "MakeMeow",
+  "version": "1.0.0",
+  "description": "The simple bot whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SazumiVicky/MakeMeow.git"
+  },
+  "keywords": [
+    "MakeMeow",
+    "sazumiviki",
+    "whatsapp",
+    "bot",
+    "baileys",
+    "md",
+    "multidevice",
+    "bot-wa",
+    "wa-bot",
+    "simple-bot",
+    "whatsapp-web"
+  ],
+  "author": "Sazumi Viki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SazumiVicky/MakeMeow/issues"
+  },
+  "homepage": "https://github.com/SazumiVicky/MakeMeow#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "dotenv": "^16.0.3",
+    "venom-bot": "^5.0.1"
+  }
+}
