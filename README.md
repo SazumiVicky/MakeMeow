@@ -2,8 +2,6 @@
 
 ##
 
-<h5>A little explanation about the MakeMeow code</h5>
-
 # <h3>main.js</h3>
 
 - imports the Venom-Bot module, which is a library for easier usage of WhatsApp Web in bots.
