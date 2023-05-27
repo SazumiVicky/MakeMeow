@@ -102,3 +102,20 @@ const runtimePlugin = require('./plugins/runtime');
 ```
 runtimePlugin(client);
 ```
+# <h3>instalation</h3>
+
+1. Clone or download this repository
+
+```
+https://github.com/SazumiVicky/MakeMeow.git
+```
+2. Install the required modules
+
+```
+npm install
+```
+3. And run the script
+
+```
+node main
+```
