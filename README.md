@@ -1,5 +1,17 @@
 ![MakeMeow](https://cdn.jsdelivr.net/gh/SazumiVicky/MakeMeow@main/20230527_110838.jpg)
 
+<p>
+MakeMeow is a WhatsApp bot developed using Venom-Bot, a library that facilitates the usage of WhatsApp Web in bots. This bot is designed to provide additional functionality and ease of use for WhatsApp through automation and automated responses.
+
+The features available in MakeMeow include sending and receiving messages, managing contacts, executing custom commands, and much more. The bot is developed by Sazumi Viki and is version 1.0.0.
+
+This repository contains the source code and plugins used in MakeMeow. By utilizing Venom-Bot, this bot can interact with WhatsApp users automatically and perform predetermined tasks.
+
+If you're interested in developing or using a reliable and user-friendly WhatsApp bot, MakeMeow can be an excellent choice. Enjoy the convenience and functionality of WhatsApp through this bot!
+
+Note: This description is just an example and can be adjusted according to the actual needs and features of the MakeMeow bot.
+</p>
+
 ##
 
 # <h3>main.js</h3>
