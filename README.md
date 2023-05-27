@@ -131,3 +131,9 @@ npm install
 ```shell
 node main
 ```
+##
+
+<h3>Contributor</h3>
+
+- [Sazumi Viki](https://instagram.com/moe.sazumiviki)
+- [Venom Bot](https://github.com/orkestral/venom)
