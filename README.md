@@ -106,16 +106,16 @@ runtimePlugin(client);
 
 1. Clone or download this repository
 
-```javascript
+```shell
 https://github.com/SazumiVicky/MakeMeow.git
 ```
 2. Install the required modules
 
-```javascript
+```shell
 npm install
 ```
 3. And run the script
 
-```javascript
+```shell
 node main
 ```
