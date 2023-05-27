@@ -12,8 +12,6 @@ If you're interested in developing or using a reliable and user-friendly WhatsAp
 Note: This description is just an example and can be adjusted according to the actual needs and features of the MakeMeow bot.
 </p>
 
-##
-
 # <h3>main.js</h3>
 
 - imports the Venom-Bot module, which is a library for easier usage of WhatsApp Web in bots.
